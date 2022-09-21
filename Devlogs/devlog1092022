@@ -1,0 +1,5 @@
+Devlog 1 09 20 22 Jacob LaSpada
+
+I found the coding for this assignment to be fairly straight forward. I changed the enum to an array and used the index to determine direction. This isn't the most elegant but it made the most sense to me. I decided to import a hand drawn and painted piece for my background. This proved challenging in the sense of establishing depth. While I was able to cut away some of the pieces I knew I wanted to be in front, it is not as precise as I had hoped. Perhaps if the those objects were rigidbodies? or perhaps there is some code that could help with establishing depth in the background -- I would be curious to learn how this can be accomplished. My other images were pixel art sprites that were fairly straight forward to make and implement except sometimes the Unity Animation window would not accurately show my animation which was frustrating. I found that exiting and re-opening often fixed the problem.
+
+Word Count: 163
