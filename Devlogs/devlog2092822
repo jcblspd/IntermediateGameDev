@@ -1,0 +1,5 @@
+Devlog
+
+The most challenging process for building the Rube Goldberg machine was the camera script. The smoothedPosition.z resulted in an incorrect z value which I corrected to -10. Then I also had to write two different scripts, one for collisions and one for triggers, so that the camera would follow the objects correctly. I also had to remember to set the limits for the camera which led me to chase a lot non-existent bugs. I often forget that I can change public variables in the Unity interface -- I look to the code first instead. The spring joint  was difficult to implement because of the amount of ambiguity it introduced. However, controlling the environment helped to ensure the result I wanted.
+
+WC: 119
