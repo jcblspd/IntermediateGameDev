@@ -1,0 +1,5 @@
+Devlog 03 HW4 10/5
+
+For my project I want to build a top-down game in which the goal is climb the Chrysler building while avoiding the bullets. The bullets will come from turrets at the top of the tower and helicopters on the sides of the building. I want the input to be like a button masher similar to a retro arcade style. The art will be pixel art. Thus far I have implemented the basic mechanisms of the game, however the system still needs some tweaking. Particularly the player movement code and the helicopter follow player code. I also need to learn how to carry a value between scenes such as the value for score.
+
+WC: 112
