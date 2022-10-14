@@ -1,0 +1,5 @@
+devlog4101122
+
+I ran into several difficulties while creating this game. The first one was the tracking system for the bullets. I needed to create a system in which the bullet is shot at the player. I was having some trouble with bullets being too accurate as in following the player like a missile. However, I set it so it only calculates its trajectory once. The other problem that wasn't able to solve was getting the score to display at the end. I needed the value to go from the game scene into end game scene. However, this proved very challenging. Even when I got this accomplished, the value did not reset when restarting the game. I was unfortunately not able to solve this problem. I hope we could go over how to accomplish this in class. A topic I would like to cover is how to integrate audio in Unity using Wwise.
+
+WC: 151
