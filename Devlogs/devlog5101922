@@ -1,0 +1,3 @@
+devlog5101922
+
+I worked on the pixel art for the character and the environment. I am having some trouble with the unity animator but I think it is just glitchy. I have implemented the walking in the game but I am a problem with collisions. I need the player to have a dynamic rigidbody but if he does, then he will just slowly fall. I am not entirely sure how to fix this, but I am confident it is an easy fix. I working on learning how to implement audio in Unity using wwise. I plan on using this for all the audio for this project so that I get more comfortable with the software.

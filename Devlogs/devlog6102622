@@ -1,0 +1,3 @@
+devlog6102622
+
+For my midterm project I made a small RPG game. The goal of the game is to explore the space while collecting requested items. The game implements the new mechanic of a dialogue box as well as implementation with wwise. The hardest part of this project was learning how to use wwise. I wasn't able to find a lot of quality resources on how to get started with wwise. While I was able to get basic functionality, many of the features I had hoped to implement I was unable too. I still have to implement an inventory system which I would like make both a UI for and a data structure in C#.
