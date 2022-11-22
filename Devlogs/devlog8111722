@@ -1,0 +1,5 @@
+devlog 8
+
+For the final project, I am working with Zoidberg and Wei to make a 2D clone of the first level of Overcooked 2. Our main systems will be player controls and then external game management. For player controls we will need create a movement system, pick up, put down, throw, chop, and assemble mechanisms. For external game management we will need to implement procedural generation for plate replenishment and generation of recipes to to make. We also will need a timer and score calculator. We will focus on one player and hopefully be able to expand into 2 or more players.
+
+I would like to learn about good Unity practices. I would like to know what game companies expect in terms of coding practices and general unity setup.

@@ -1,0 +1,5 @@
+devlog 9
+
+This week we worked on several aspects of our final project. I worked on the player controls. Specifically, I programmed the player movement controls as well as a pick up and put down system. The system is very trivial and will need to be editing as we incorporate more actions for the player. Wei worked on creating the environment. She created different colored squares that represent different types of objects in the game and labelled them via tags and layer masks. Zoidberg worked on creating a selection system in which the player can visually see what part of the scene they are interacting with.
+
+I would like to learn more about enemy interactions with the player. For example, I would like to learn about what algorithm would be used if we wanted the enemy to follow the player.

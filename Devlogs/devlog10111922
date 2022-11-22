@@ -1,0 +1,3 @@
+devlog 10
+
+This week we continued work on our game. Zoidberg's system of selection had several bugs in it. He asked that I incorporate ray casting into the code. This was challenging to accomplish but over the course of the week I was able to get the ray casting properly working. Moreover, the ray casting was able to replace the collision as a mechanism for interaction. I think this will be more helpful to us as it allows for a more specific interaction between objects. Further, the ray casting mechanism will be extremely helpful if we end up having time to add a throw function.
